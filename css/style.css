@@ -1,0 +1,12 @@
+.pagination > .active > a
+{
+    color: white;
+    background-color: #8B0000;
+    border: solid 1px #8B0000;
+}
+.pagination > .active > a:hover
+{
+    background-color: #8B0000;
+    border: solid 1px #8B0000;
+}
+
